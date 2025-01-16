@@ -5,6 +5,7 @@ Ferramenta utilizada: kali linux no VM
 obs: 
 1) para listar os arquivos: comando "ls"
 2) editor nano: ctrl O + enter para salvar o arquivo, e ctrl X para sair do arquivo
+3) para abrir arquivo no editor nano, para edição: nano nome-do-arquivo 
 
 ## Ransomware na Prática com Python
 
